@@ -65,9 +65,9 @@ h1 {
     flex-direction: row;
     justify-content: space-around;
 }
-.container-6 {
+.container6 {
     display: flex;
-    flex-direction: row;
+
     justify-content: space-evenly;
 }
 
